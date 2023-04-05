@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f2a563e8afe44d6ead0b0cb6909b318, type: 3}
+  m_Name: DocPairs
+  m_EditorClassIdentifier: 
+  _docPairs:
+  - Name: MB_Asus_Stix
+    ImgDoc: {fileID: 21300000, guid: 9f1f998b764ee4a2bb1a36ed04bd1dcf, type: 3}
+    TextDoc: 
+  - Name: Intel I7-9700k
+    ImgDoc: {fileID: 21300000, guid: ee6397b218d424528a5f6ac339a84630, type: 3}
+    TextDoc: 
